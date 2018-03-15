@@ -1,0 +1,5 @@
+<!-- Test Config File Type -->
+ConfigFileType = text
+
+<!-- Project Properies -->
+ProjectName = TestAutomation
